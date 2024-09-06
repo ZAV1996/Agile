@@ -1,4 +1,4 @@
-Backand системы Agile системы.
+Backand Agile системы.
 
 ## Installation
 ```bash
